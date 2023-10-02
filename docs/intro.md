@@ -1,12 +1,9 @@
 ---
 sidebar_position: 1
 ---
+# Junior Academy
 
-# Intro
-
-Tem dúdidas sobre o Junior Academy?
-
-Pode ficar tranquilo que você veio ao lugar certo!
+<h3>Tem dúdidas sobre o Junior Academy? Pode ficar tranquilo que você veio ao lugar certo!</h3>
 
 Na JA, nossa missão é proporcionar uma experiência perfeita tanto para os gestores quanto para os alunos. Se você tiver dúvidas, perguntas ou precisar de assistência, você está no lugar certo. Nossa equipe está aqui para ajudá-lo. Explore as seções abaixo para encontrar as respostas que você procura.
 
