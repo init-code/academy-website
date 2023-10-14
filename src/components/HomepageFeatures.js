@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Se preocupar pra quê?',
-    jpg: '../../static/img/bola.jpg',
+    jpg: '../img/bola.jpg',
     description: (
       <>
         Deixe as preocupações administrativas conosco. Nosso app é a solução completa para escolas de futebol, oferecendo funcionalidades intuitivas para gerenciar alunos, horários, pagamentos e muito mais.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Da matricula, ao campo',
-    jpg: '../../static/img/campo.jpg',
+    jpg: '../img/campo.jpg',
     description: (
       <>
         Nosso app de gestão para escolas de futebol facilita o acompanhamento de matrículas, calendários, finanças e muito mais.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Organização é tudo',
-    jpg: '../../static/img/facil.jpg',
+    jpg: '../img/facil.jpg',
     description: (
       <>
         Organize, acompanhe e cresça! Nosso aplicativo de controle escolar foi projetado especificamente para escolas de futebol, proporcionando uma administração eficiente e sem estresse.
