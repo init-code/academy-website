@@ -17,7 +17,7 @@ As informações a serem preenchidas sobre o aluno são:
 * Número: Número da casa, apartamento, etc.
 * Bairro: Nome do bairro
 * Cidade: Nome da cidade
-* Escola: Instituição de ensino onde o aluno está matriculado. Relacionado com o cadastro de [Instituições](../Institui%C3%A7%C3%A3o/Institui%C3%A7%C3%A3o.md)
+* Escola: Instituição de ensino onde o aluno está matriculado. Relacionado com o cadastro de [Instituições](../08-Instituição/Instituição.md)
 * Série: Idade escolado do aluno (ex.: Terceira Série)
 * Nacionalidade: Nacionalidade do aluno
 * Data de Nascimento: Data de nascimento do aluno

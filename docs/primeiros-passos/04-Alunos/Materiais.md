@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Materiais do Aluno
 
-Ao selecionar a opção Materiais, é possível registrar o material e a quantidade entrega para um determinado [aluno](../Alunos).
+Ao selecionar a opção Materiais, é possível registrar o material e a quantidade entrega para um determinado [aluno](./Alunos).
 
 Para isso, basta informar o [Material](../Materiais/Materiais) e a quantidade através do botão Entregar Material.
 
