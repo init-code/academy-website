@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkacademy_website=self.webpackChunkacademy_website||[]).push([[477],{10:e=>{e.exports={blogPosts:[]}}}]);
